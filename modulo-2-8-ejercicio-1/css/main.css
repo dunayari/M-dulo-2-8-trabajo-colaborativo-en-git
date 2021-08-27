@@ -13,3 +13,11 @@
   top: 50%;
   transform: translate(-50%, -60%) rotate(90deg);
 }
+.page {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/*Este señor está como apartado, en una esquina... eso no puede ser, debería estar centrado vertical y horizontalmente en la pantalla.*/
